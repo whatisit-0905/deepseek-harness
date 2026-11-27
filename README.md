@@ -14,7 +14,7 @@ DeepSeek Harness is in _developer preview_ and iterating rapidly. **THERE WILL B
 
 Review the [safety notice](SAFETY.md) before running the project.
 
-## Run
+## Quick start
 
 ### Run from `npm`
 
